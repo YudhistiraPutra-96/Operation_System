@@ -354,14 +354,14 @@ Gunakan sed untuk mengganti semua kata server menjadi node pada file latihan. Tu
 
 ## Latihan 2.E
 Gunakan df -h lalu awk untuk menampilkan filesystem yang penggunaan disk di atas 70%.
->Jawaban : 
+>Jawaban :   
 ![alt text](image/kodelatihan2e.png) 
 
 
 ## Latihan 2.F
 Jalankan sleep 600 &. Temukan PID-nya dengan ps. Hentikan dengan SIGTERM. Jelaskan beda SIGTERM vs SIGKILL.
 >Jawaban :  
-![alt text](image/kodelatihan2f.png)
+![alt text](image/kodelatihan2f.png)  
 SIGTERM : Menghentikan secara halus. Proses bisa melakukan cleanup (menutup file, menyimpan data) sebelum berhenti
 >
 >SIGKILL : Menghentikan secara paksa. Proses langsung dihentikan oleh kernel, tanpa kesempatan cleanup.
@@ -369,5 +369,5 @@ SIGTERM : Menghentikan secara halus. Proses bisa melakukan cleanup (menutup file
 ## Latihan 2.G
 Gunakan systemctl –failed. Jika tidak ada yang gagal, pilih satu service aktif (misal ssh) dan tampilkan status serta 30 baris log terakhirnya.
 >Jawaban :  
-ssh
+ssh  
 ![alt text](image/kodelatihan2g(ssh).png)
