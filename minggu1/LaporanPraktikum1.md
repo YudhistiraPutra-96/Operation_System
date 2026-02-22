@@ -104,39 +104,39 @@ Install Ubuntu Server 22.04 LTS di VirtualBox dengan langkah berikut:
 6. Dokumentasikan proses instalasi dengan screenshot key step
 
 >Jawaban :  
->1. Step 1
+>1. Step 1  
 ![alt text](image/VB-1.png)
->2. Step 2
+>2. Step 2  
 ![alt text](image/VB-2.png)
->3. Step 3
+>3. Step 3  
 ![alt text](image/VB-3.png)
->4. Step 4
+>4. Step 4  
 ![alt text](image/VB-4.png)
->5. Step 5
+>5. Step 5  
 ![alt text](image/VB-5.png)
->6. Step 6
+>6. Step 6  
 ![alt text](image/VB-6.png)
->7. Step 7
+>7. Step 7  
 ![alt text](image/VB-7.png)
->8. Step 8
+>8. Step 8   
 ![alt text](image/VB-8.png)
->9. Step 9
+>9. Step 9   
 ![alt text](image/VB-9.png)
->10. Step 10
+>10. Step 10   
 ![alt text](image/UBUNTU-1.png)
->11. Step 11
+>11. Step 11   
 ![alt text](image/UBUNTU-2.png)
->12. Step 12
+>12. Step 12   
 ![alt text](image/UBUNTU-3.png)
->13. Step 13
+>13. Step 13  
 ![alt text](image/UBUNTU-4.png)
->14. Step 14
+>14. Step 14  
 ![alt text](image/UBUNTU-5.png)
->15. Step 15
+>15. Step 15  
 ![alt text](image/UBUNTU-6.png)
->16. Step 16
+>16. Step 16  
 ![alt text](image/UBUNTU-7.png)
->17. Step 17
+>17. Step 17  
 ![alt text](image/UBUNTU-8.png)
 
 
@@ -152,19 +152,19 @@ Setelah instalasi Ubuntu Server, lakukan tasks berikut:
 7. Dokumentasikan output dari setiap command
 
 >Jawaban :  
->1. Step 1
+>1. Step 1  
 ![alt text](image/Update1.png)
->2. Step 2
+>2. Step 2  
 ![alt text](image/Update2.png)
->3. Step 3
+>3. Step 3  
 ![alt text](image/Update3.png)
->4. Step 4
+>4. Step 4  
 ![alt text](image/Update4.png)
->5. Step 5
+>5. Step 5  
 ![alt text](image/Update5.png)
->6. Step 6
+>6. Step 6   
 ![alt text](image/Update6.png)
->7. Step 7
+>7. Step 7  
 ![alt text](image/Update7.png)
 
 
@@ -227,7 +227,7 @@ Eksplorasi sistem yang baru diinstall:
 >
 >Lainnya: Paket dasar Ubuntu Server
 >
-><b>F. KESIMPULAN</b>
+><b>F. KESIMPULAN</b>  
 >Sistem Ubuntu Server berhasil diinstal dan berjalan dengan baik. Semua komponen hardware terdeteksi dengan benar, koneksi jaringan berfungsi optimal, dan resource sistem masih sangat mencukupi untuk kebutuhan server dasar. Sistem siap digunakan untuk berbagai peran seperti web server, database server, atau pengembangan aplikasi.
 
 ### 1.10.3 Latihan Latihan Refleksi
